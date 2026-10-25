@@ -20,3 +20,5 @@
 | `world/Citizen-Affairs.webp` | شؤون المواطنين.png | شؤون المواطنين |
 | `world/ID-Point.webp` | نقطة الهوية.png | نقطة الهوية |
 | `world/Car-Wash.webp` | نقطة غسيل السيارات ( للعسكر والعصابات ) لما يتم طلبها.png | غسيل السيارات — للعسكر والعصابات، تطلع لما يتم طلبها |
+| `world/Market-Saudi.webp` | KSA-MARKET.png | الماركت السعودي — لوحة الماركت لما ريجن السيرفر السعودية |
+| `world/Save-Clothes.webp` | SAVEcLOTH.png | خزنة الملابس (clothwardrobe في Apex-Builder) |
