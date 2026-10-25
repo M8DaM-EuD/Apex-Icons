@@ -22,3 +22,4 @@
 | `world/Car-Wash.webp` | نقطة غسيل السيارات ( للعسكر والعصابات ) لما يتم طلبها.png | غسيل السيارات — للعسكر والعصابات، تطلع لما يتم طلبها |
 | `world/Market-Saudi.webp` | KSA-MARKET.png | الماركت السعودي — لوحة الماركت لما ريجن السيرفر السعودية |
 | `world/Save-Clothes.webp` | SAVEcLOTH.png | خزنة الملابس (clothwardrobe في Apex-Builder) |
+| `world/Gunshop.webp` | box.png | محل الأسلحة (لوحة GUNSHOP بـ WorldSigns و gunshop بـ Apex-Builder) |
