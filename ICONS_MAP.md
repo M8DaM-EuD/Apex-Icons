@@ -23,3 +23,19 @@
 | `world/Market-Saudi.webp` | KSA-MARKET.png | الماركت السعودي — لوحة الماركت لما ريجن السيرفر السعودية |
 | `world/Save-Clothes.webp` | SAVEcLOTH.png | خزنة الملابس (clothwardrobe في Apex-Builder) |
 | `world/Gunshop.webp` | box.png | محل الأسلحة (لوحة GUNSHOP بـ WorldSigns و gunshop بـ Apex-Builder) |
+
+## `Apex-Connecting/` — شاشة الدخول للسيرفر (Connecting)
+
+WebP 64x64 شفافة، تنعرض 18-20px جنب كل خطوة.
+
+| الملف | وين تطلع |
+|---|---|
+| `Apex-Connecting/verified.webp` | الخطوة تمت (Verified ...) |
+| `Apex-Connecting/loading.webp` | الخطوة قيد التحقق (متحركة) |
+| `Apex-Connecting/pending.webp` | الخطوة ما بدت |
+| `Apex-Connecting/warning.webp` | تنبيه (مثل Discord Not Linked) |
+| `Apex-Connecting/failed.webp` | الخطوة فشلت |
+| `Apex-Connecting/clock.webp` | سطر آخر دخول |
+| `Apex-Connecting/players.webp` | عدد اللاعبين أونلاين |
+| `Apex-Connecting/id.webp` | ايدي اللاعب |
+| `Apex-Connecting/user.webp` | احتياطي (أيقونة لاعب) |
